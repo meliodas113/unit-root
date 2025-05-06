@@ -42,5 +42,4 @@ The core conversion logic is implemented through:
 
 4. **Performance Optimization** (`hooks/use-converter.ts`, `hooks/use-debounce.ts`):
    - Debounced input to prevent excessive calculations
-   - Immediate validation feedback with delayed conversion
    - Separation of validation and conversion concerns
