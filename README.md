@@ -150,7 +150,7 @@ This architecture strictly separates:
 
 ## Deployment
 
-The app is deployed on Vercel and can be accessed at [unit-converter-app.vercel.app](https://unit-converter-app.vercel.app) (example URL).
+The app is deployed on Vercel and can be accessed at [https://unit-root.vercel.app/](https://unit-root.vercel.app/).
 
 ## License
 
