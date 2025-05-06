@@ -36,5 +36,4 @@ The core conversion logic is implemented through:
 
 4. **Performance Optimization**:
    - Debounced input to prevent excessive calculations
-   - Immediate validation feedback with delayed conversion
    - Separation of validation and conversion concerns
